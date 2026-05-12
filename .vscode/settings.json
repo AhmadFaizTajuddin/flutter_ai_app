@@ -1,0 +1,20 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "dart.lineLength": 100,
+  "dart.showTodos": true,
+  "[dart]": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.rulers": [100],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "dart.flutterRunAdditionalArgs": ["--dart-define=FLUTTER_WEB_USE_SKIA=true"],
+  "dart.openDevTools": "flutter",
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorTheme": "One Dark Pro"
+}
